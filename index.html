@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div class="portfolio">
+	<p>Cryptofinance technologist and experienced entrepreneur, currently developing next-gen financial and digital contracting products.</p>
+</div>
+
+<!--
+<div class="portfolio">
+	<h1>Experience</h1>
+	        <ul>
+			{% for experience in site.data.experience %}
+			<li>{{ experience.role }} @ <a href="{{ experience.url }}">{{ experience.company }}</a></li>
+			{% endfor %}
+		</ul>
+</div>
+-->
+
+<br>
+
+<div class="blog">
+		<ul>
+			{% for post in site.posts %}
+			<li><span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+</div>

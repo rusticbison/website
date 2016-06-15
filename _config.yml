@@ -1,0 +1,22 @@
+# My variables
+name: Justin Smith
+description: Cryptofinance technologist and experienced entrepreneur. 
+google_verification: null
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+baseurl: /website
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

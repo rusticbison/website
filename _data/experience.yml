@@ -1,0 +1,19 @@
+- role: Product Manager  
+  url: monetas.net
+  company: Monetas AG
+
+  url: deere.com
+- role: Programmer  
+  company: John Deere
+
+  url: wolfram.com
+- role: Technical sales
+  company: Wolfram Research
+
+  url: irikonji.com
+- role: Founder & CEO 
+  company: Irikonji Dive Gear LLC
+  
+  url: cat.com 
+- role: Operations Supervisor & Quality Engineer 
+  company: Caterpillar
