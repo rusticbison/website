@@ -45,7 +45,7 @@ Or retreiving your wallet's address, which is what you give to other people so t
           $ 200 OK
             "$nym-id"
 
-*GoatD* is constantly polling the Monetas Notary server to see if there's any new information available that would be of interest to you. By the way, *Goat* refers to the programming language *Go* and the *D* refers to *daemon*, because Monetas expects most users to run the application on a server. The *GoatD* daemon is built to sit in between an enterprise API, like M-PESA or PayPal (or a traditional bank), and the Monetas system. ![Interactions diagram](/website/assets/img/interactions-diagram.png){:class="img-responsive"}
+*GoatD* is constantly polling the Monetas Notary server to see if there's any new information available that would be of interest to you. By the way, *Goat* refers to the programming language *Go* and the *D* refers to *daemon*, because Monetas expects most users to run the application on a server. The *GoatD* daemon is built to sit in between an enterprise API, like M-PESA or PayPal (or a traditional bank), and the Monetas system. ![Interactions diagram]({{ site.baseurl }}/assets/img/interactions-diagram.png){:class="img-responsive"}
 
 There are many interesting things that can be done with this application:
 
