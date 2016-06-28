@@ -5,7 +5,7 @@ title: GoatD, your Monetas wallet
 
 # Background
 
-Monetas is a peer to peer digital contracting system. You can create a contract to transfer any type of asset that is available on the system from one wallet to another, including currencies, gold grams, Bitcoin, etc. There are several clients available, an Android client as well as *GoatD*. Both wallet applications keep your assets on the device in which they are installed.
+Monetas is a peer to peer digital contracting system. You can create a contract to transfer any type of asset that is available on the system from one wallet to another, including currencies, gold grams, Bitcoin, etc. A wallet application keeps your assets on the device in which it is installed. 
 
 # The *GoatD* wallet
 
