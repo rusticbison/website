@@ -64,8 +64,6 @@ Now save goatease.py and run it:
     Press 'f' to see the fees for a particular unit.
     To quit, press 'q'.
 
-Try experimenting with this script to learn how requests are being sent. If you have the Monetas Android app that's running in the Platform Demo environment (check with Monetas, you may have a special environment) then your *GoatD* wallets will be perfectly interoperable with your Android app.
-
 # Next steps
 
 Today we installed *GoatD*, configured it, and learned how to create multiple wallets on the same virtual machine. We also ran a simple script that makes sending simple HTTP requests to *GoatD* easy. Next time we'll build a simple mobile wallet web app that you can turn into an iOS or Android app, which will let you do the same things that *goatease.py* does.
