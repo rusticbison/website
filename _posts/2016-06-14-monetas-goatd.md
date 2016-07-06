@@ -5,11 +5,13 @@ title: GoatD, your Monetas wallet
 
 # Background
 
-Monetas is a peer to peer digital contracting system. You can create a contract to transfer any type of asset that is available on the system from one wallet to another, including currencies, gold grams, Bitcoin, etc. A wallet application keeps your assets on the device in which it is installed. 
+Monetas is a peer to peer digital contracting system. You create contracts to transfer assets like currencies, gold grams, Bitcoin, etc. Those contracts are digitally signed and notarized, making transfers very fast, private, and ensures users can't cheat each other. A digital wallet creates and manages contracts for you.
 
 # The *GoatD* wallet
 
-There is a wallet application available for Monetas called *GoatD* that can be run on a server, or maybe your laptop. When *GoatD* is running, you can communicate with it by sending it simple HTTP requests. For example, to see your *GoatD*'s wallet balance you can use cURL to send a request:
+Monetas offers a digital wallet called *GoatD* that can be run on a server, or maybe your laptop for testing and development. *GoatD* does all of the hard work of creating contracts, signing them cryptographically, etc. so that you can focus on building cool applications that make full use of the Monetas platform's capabilities. You can download the latest version of *GoatD* here: https://goatd.monetas.net/
+
+When *GoatD* is running, you can communicate with it by sending it simple HTTP requests. For example, to see your *GoatD*'s wallet balance you can use cURL to send a request:
 
 
 
@@ -23,7 +25,7 @@ There is a wallet application available for Monetas called *GoatD* that can be r
       "$unit2": 43
     }
 
-There are a number of other requests you can make, such as sending 100 units:
+Make sure to modify the URL so that your port is correct and the version matches the version of *GoatD* you're using. There are a number of other requests you can make, such as sending 100 units:
 
 
 
@@ -52,12 +54,11 @@ There are many interesting things that can be done with this application:
 * Create a web app that is a view to *GoatD* to create and receive transfers from a mobile device or web browser
 * Create permissions, so a company can use *GoatD* wallets instead of bank accounts
 * Automate payroll and accounting using the same application
-* Offer wallet creation and protection service (become a bank) with a few keystrokes
-* Work with other system APIs to create an exchange, for example between PayPal and Monetas
-* Another exchange could be between a bank current account and Monetas
+* Offer wallet creation and protection service (become a bank)
+* Create an exchange, for example between your bank, poloniex.com or paypal.com and Monetas
 
 # Next steps
 
-If you don't have *GoatD* already, the only way to get it at the moment is by becoming a corporate partner of Monetas. If you get that far, then you'll receive a download link and you can run *GoatD* from a [Vagrant](https://www.vagrantup.com/) box that uses [Virtual Box](https://www.virtualbox.org/wiki/Downloads) as a provider. The idea is that once you're a Monetas partner, it's easy to earn revenue from the transfers that come out of the applications you build.
+The *GoatD* application runs in a "sandbox" environment, so you're not using real assets. The production environment hasn't launched at the time of this post, but when it's available you can simply point your *GoatD* to the production notary server. When you do that you earn a percentage of the transfer fees made with your application. Be sure to get in touch with Monetas and sign up as a partner first.  
 
 In my next post we'll look at how to setup *GoatD* and how to create multiple wallets. Later we'll build a simple mobile wallet web app that you can turn into an iOS or Android app, or just access via a web browser. The thing to remember is that *GoatD* is your wallet, so wherever that is installed is where your money is.
