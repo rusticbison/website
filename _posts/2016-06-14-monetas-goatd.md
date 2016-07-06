@@ -9,7 +9,7 @@ Monetas is a peer to peer digital contracting system. You create contracts to tr
 
 # The *GoatD* wallet
 
-Monetas offers a digital wallet called *GoatD* that can be run on a server, or maybe your laptop for testing and development. *GoatD* does all of the hard work of creating contracts, signing them cryptographically, etc. so that you can focus on building cool applications that make full use of the Monetas platform's capabilities. You can download the latest version of *GoatD* here: https://goatd.monetas.net/
+Monetas offers a digital wallet called *GoatD* that can be run on a server, or maybe your laptop for testing and development. *GoatD* does all of the hard work of creating contracts, signing them cryptographically, etc. so that you can focus on building cool applications that make full use of the Monetas platform's capabilities. You can download the latest version of *GoatD* here: [https://goatd.monetas.net/](https://goatd.monetas.net/)
 
 When *GoatD* is running, you can communicate with it by sending it simple HTTP requests. For example, to see your *GoatD*'s wallet balance you can use cURL to send a request:
 
