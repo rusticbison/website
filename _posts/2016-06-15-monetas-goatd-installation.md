@@ -5,7 +5,7 @@ title: Simple installation and configuration guide for the GoatD wallet
 
 # Background
 
-Monetas is a peer to peer digital contracting system. You can create a contract to transfer any type of asset that is available on the system from one wallet to another, including currencies, gold grams, Bitcoin, etc. In my last post I introduced *GoatD* and presented some ideas for what you could do with it. Today we'll get our hands dirty as we install and configure *GoatD*.
+Monetas is a peer to peer digital contracting system. You can create a contract to transfer any type of asset that is available on the system from one wallet to another, including currencies, gold grams, Bitcoin, etc. In my last post I introduced *GoatD* and presented some ideas for what you could do with it. Today we'll get our hands dirty as we install and configure the version of *GoatD* that comes in a Vagrant package. The instructions for the binary alone are [packaged with the binary tarball](https://goatd.monetas.net/).
 
 # *GoatD* installation
 
