@@ -7,8 +7,7 @@ google_verification: null
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
-# baseurl: /website-personal
-baseurl: /
+baseurl: /website-personal
 
 # Sass
 sass:
