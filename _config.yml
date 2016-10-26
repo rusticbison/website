@@ -1,13 +1,14 @@
 # My variables
 name: Justin Smith
-description: Cryptofinance technologist and experienced entrepreneur. 
+description: Cryptofinance technologist and experienced entrepreneur.
 google_verification: null
 
 # File management
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
-baseurl: /website-personal
+# baseurl: /website-personal
+baseurl: ""
 
 # Sass
 sass:
