@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zcash genesis
+title: Zcash begins
 ---
 
 
