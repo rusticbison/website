@@ -4,7 +4,7 @@ title: Zcash genesis
 ---
 
 
-I've been tracking the Zcash project for some time, and decided to get involved a bit more now that it's been officially released. Zcash is very similar to Bitcoin, but Zcash adds very strong privacy features.
+I've been watching the Zcash project for some time, and decided to get involved a bit more now that it's been officially released. Zcash is very similar to Bitcoin, but Zcash adds very strong privacy features.
 ![Zcash screenshot]({{ site.baseurl }}/assets/img/screenshot-zcash.png){:class="img-responsive"}  
 
 # Two concerns
@@ -15,4 +15,4 @@ The second big concern is the probability that the system just doesn't do what i
 
 # Pricing and growth
 
-Even with these open questions, investors seem to already be valuing ZEC above XBT, which isn't surprising. Looking at the fundamentals alone, ZEC should be more valuable than XBT. I think it's clear that there is strong demand for both a transparent, traceable digital asset like Bitcoin, and a completely private digital asset like Zcash.
+Even with these open questions, investors seem to already be valuing ZEC above XBT, which isn't surprising. Because it adds strong privacy, ZEC *should* be more valuable than XBT. I think it's clear that there is strong demand for both a transparent, traceable digital asset like Bitcoin, and a completely private digital asset like Zcash.
