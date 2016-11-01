@@ -5,7 +5,7 @@ title: Zcash genesis
 
 
 I've been tracking the Zcash project for some time, and decided to get involved a bit more now that it's been officially released. Zcash is very similar to Bitcoin, but Zcash adds very strong privacy features.
-![Zcash screenshot]({{ site.url }}/assets/img/screenshot-zcash.png =250x)   
+![Zcash screenshot]({{ site.url }}/assets/img/screenshot-zcash.png){:class="img-responsive"}   
 
 # Two concerns
 
