@@ -3,7 +3,7 @@ layout: post
 title: Discovering Hyperledger
 ---
 
-I have seen and heard of so many businesses still using paper-based systems for important business processes, it makes sense that there's all this interest in really contrived blockchain technologies. After hearing a bit about Hyperledger, I decided to investigate further and see if this thing might be useful, and if so, where.  
+After hearing a bit about Hyperledger, I decided to investigate further and see if this thing might be useful, and if so, where.  
 
 ![hyperledger-logo]({{ site.baseurl }}/assets/img/hyperledger-logo.png){:class="img-responsive"}  
 
