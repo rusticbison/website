@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin display format
+title: bitcoin display format
 ---
 
 The recent rise in price to just over $1000 USD ($1035 USD this morning) has sparked another debate on how to denominate Bitcoin. Let's examine the arguments and then try to make a decision on how to move forward.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zcash begins
+title: Zcash review
 ---
 
 

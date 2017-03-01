@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My personal technology stack
+title: personal technology stack
 ---
 
 # System

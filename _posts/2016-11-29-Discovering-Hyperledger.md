@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discovering Hyperledger
+title:  hyperledger review
 ---
 
 After hearing a bit about Hyperledger, I decided to investigate further and see if this thing might be useful, and if so, where.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple installation and configuration guide for the GoatD wallet
+title: simple installation and configuration guide for the GoatD wallet
 ---
 
 # Background

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solutions delivered by cryptofinance and blockchain technologies
+title: solutions provided by cryptofinance and blockchain technologies
 ---
 
 
@@ -29,7 +29,7 @@ Digital contracting comes after Bitcoin, and borrows and improves upon some of i
 * Your activities are private; it would be nearly impossible for almost anyone except for yourself and law enforcement to see your financial history
 * 24/7/365 transfers, with no respect to timezones or geography
 
-What’s the big catch with digital contracting? The catch is that it doesn’t do the things that Bitcoin sets out to do. It’s not designed to be censorship resistant, because it’s a business tool. It’s not designed to be completely trustless because business isn't completely trustless. it’s designed to provide distinct business advantages. 
+What’s the big catch with digital contracting? The catch is that it doesn’t do the things that Bitcoin sets out to do. It’s not designed to be censorship resistant, because it’s a business tool. It’s not designed to be completely trustless because business isn't completely trustless. it’s designed to provide distinct business advantages.
 
 It’s open just enough to be completely legal and accepted in all jurisdictions, but at the same time it’s private and protects you fully against your competitors seeing how much you pay your employees, or your siblings from seeing how much money your grandma sent you for your birthday.
 

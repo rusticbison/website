@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On startup growth
+title: startup growth
 ---
 
 
