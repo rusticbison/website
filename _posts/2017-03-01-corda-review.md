@@ -13,11 +13,17 @@ Unlike many other software products and platforms in this area, it’s clear tha
 
 
 - Corda is a polished, modular system that lets you create a customized, industry-specific solution
+
 - A Corda network is meant to be private or semi-private, it’s designed to run in a trusted environment. This is designed in: all nodes in the same network have to have the same root CA certificate.
+
 - Corda is written in Kotlin. This is a relatively new and little-used language; sold as “a better java”. This means there’s some extra cost involved in building applications. Most ambitious projects seem to be using Go or even Elixir, so this will cause some development friction. I was agitated before even trying the language: Kotlin’s homepage has a serious design flaw which prevents you from closing the cookies agreement box.
+
 - Corda uses Oracle JVM, which is antithetical to the principles of open computing, and could lead to some interesting legal problems down the road.  
+
 - There’s a striking similarity to the Monetas platform; Corda takes Monetas’s concepts of the Notary and network mapping in conjunction with p2p communication. Whether these are novel is perhaps questionable.
+
 - I was surprised at how well done the documentation is, it’s complete with good examples.
+
 - Corda uses the “Dapp" concept, which I first saw introduced by Ethereum some years ago. The key difference is that there’s no “gas” or currency in Corda, you are responsible for setting up and trusting the nodes, and figuring out how to incentivize network security and stability.
 
 
