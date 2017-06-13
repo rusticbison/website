@@ -11,6 +11,6 @@ title: I’ll gladly pay you fiat (not crypto) tomorrow for a hamburger today.
 
 A rational actor will behave like Wimpy, and take the asset now in exchange for a promise. That’s because a hamburger in your stomach is (generally speaking) more valuable than a promise- which can vanish into thin air at any time.
 
-What if we assume we have not just one, but two paper currencies (USD, and XBT) in our wallet? Let's imagine these currencies are different in only one way: we know without any doubt that currency USD has a variably increasing and unpredictable supply curve, and currency XBT has a fixed and limited supply curve. We therefore know that USD will be worth less next year, and XBT will be worth more next year.
+What if we assume we have not just one, but two paper currencies (USD, and XBT) in our wallet? Let's imagine these currencies are different in only one way: we know without any doubt that currency USD has a variably increasing and unpredictable supply curve, and currency XBT has constant and known supply curve. We therefore know that USD will be worth less next year, and XBT will be worth more next year.
 
 When we go to the hamburger stand, we will always gladly spend USD (or even better, USD debt) until we absolutely run out of USD and have no choice but to (unhappily) spend XBT. If we trust the promise of XBT enough, we might not even spend XBT at all and choose to just go home hungry that day. We can eat a hamburger today with our XBT, or if we wait two months we can eat lobster for a week.  
