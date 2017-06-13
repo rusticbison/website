@@ -7,9 +7,7 @@ title: I’ll gladly pay you fiat (not crypto) currency tomorrow for a hamburger
 
 Wimpy, the hamburger-loving Popeye character, knows how to make a deal. And every MBA student is asked a related question when they begin the course of their studies: would you prefer a dollar today, or two dollars a year from now?
 
-![wimpy](https://giphy.com/gifs/hamburger-popeye-wimpy-3oEduHbGIZHblgkx20){:class="img-responsive"}
-
-<iframe src="https://giphy.com/embed/3oEduHbGIZHblgkx20" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hamburger-popeye-wimpy-3oEduHbGIZHblgkx20">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oEduHbGIZHblgkx20" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hamburger-popeye-wimpy-3oEduHbGIZHblgkx20"></a></p>
 
 A rational actor will behave like Wimpy, and take the asset now. That’s because a hamburger in your stomach is (generally speaking) more valuable than any promise- which can vanish into thin air at any time.
 
