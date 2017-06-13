@@ -1,11 +1,9 @@
 ---
 layout: post
-title: introduction to xbtdata1.com
+title: I’ll gladly pay you fiat (not crypto) currency tomorrow for a hamburger today.
 ---
 
 
-
-I’ll gladly pay you fiat (not crypto) currency tomorrow for a hamburger today.
 
 Wimpy, the hamburger-loving Popeye character, knows how to make a deal. And every MBA student is asked a related question when they begin the course of their studies: would you prefer a dollar today, or two dollars a year from now?
 
