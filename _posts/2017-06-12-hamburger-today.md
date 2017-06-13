@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I’ll gladly pay you fiat (not crypto) currency tomorrow for a hamburger today.
+title: I’ll gladly pay you fiat (not crypto) tomorrow for a hamburger today.
 ---
 
 
