@@ -34,9 +34,9 @@ This technique has already been demonstrated by researchers using [Zcash and Bit
 This is trickier in practice than trading two cryptocurrencies. But we can use game theory to incentivize buyers and sellers of merchandise in a way that works fairly well most of the time. For example, a seller of an item that is priced at 1 XMR might have to commit collateral of 1 XMR to a trade, while the buyer agrees to pay 1 XMR but must also commit 1 XMR as collateral. If either party defaults, the total collateral is forfeited. This doesn't work well for genuine "lost in the mail" situations, but if the delivery service's tracking system is trustworthy enough to be used as an oracle, then a fairly robust system can be built.
 
 
-# Conclusion: still Moon bound
-I think that we'll see two big trends emerge in the next few years, which will be driven by catastrophic failures of memecoins (including fiat currency) and third party exchanges and intermediaries.
+# Conclusion: Moon bound, but we haven't left the launch pad yet
+I think that we'll see two big trends emerge in the next few years, which will be driven by catastrophic failures of memecoins (including fiat currency, flags are memes) and third party exchanges and other intermediaries.
 
-1. High quality cryptocurrencies will be traded atomically (and vice-versa) and companies that operate exchanges will be relegated to listing low quality cryptocurrencies. Atomic swap price data will emit the only trustworthy price data.
+1. People will use a lot of different cryptocurrencies, but only a few will be "high quality". High quality cryptocurrencies will be traded atomically (and vice-versa) and companies that operate exchanges will be relegated to listing low quality cryptocurrencies and serving customers with low standards. It will be a race to the bottom. Atomic swap price data will be the only trustworthy price data.
 
-2. Peer to peer online markets will become consumer friendly. Bisq is an early example of a working p2p marketplace, but it's just not ready for most people to use. I can see integrations with XBT and XMR coming in the near future.
+2. Peer to peer online markets will become consumer friendly and grow in popularity. [Bisq](https://bisq.io/) is an example of a working p2p marketplace, but it's UX is just not ready yet to compete with centralized marketplaces. It makes sense that deeper cryptocurrency integration (along with distributed storage systems like [storj](https://storj.io/)) will contribute to improvements in the UX in the near future, and hopefully this increased usability will make the marketplace more popular.
