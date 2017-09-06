@@ -38,4 +38,5 @@ This is trickier in practice than trading two cryptocurrencies. But we can use g
 I think that we'll see two big trends emerge in the next few years, which will be driven by catastrophic failures of memecoins (including fiat currency) and third party exchanges and intermediaries.
 
 1. High quality cryptocurrencies will be traded atomically (and vice-versa) and companies that operate exchanges will be relegated to listing low quality cryptocurrencies. Atomic swap price data will emit the only trustworthy price data.
+
 2. Peer to peer online markets will become consumer friendly. Bisq is an early example of a working p2p marketplace, but it's just not ready for most people to use. I can see integrations with XBT and XMR coming in the near future.
