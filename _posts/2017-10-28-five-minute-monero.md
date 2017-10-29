@@ -6,16 +6,16 @@ title: Five minute monero
 
 
 
-Monero is a cryptocurrency that tries to deliver the benefits of what we imagine a good digital cash would offer. Some of its properties include: 
+Monero is a cryptocurrency delivers the benefits of what we imagine a good digital cash might offer. Some of its properties include: 
 
 * Total privacy
 * The ability to prove that you made a payment
 * About 2 minutes to settlement
 * Low and predictable transaction fees, and a perpetual 1% inflation rate 
 
-There are no other cryptocurrencies currently available that deliver the same level of privacy and usability as Monero. But this is still a young technology, and at the moment, user-friendly wallets and other applications running on Monero are practically non-existent. So if you want to start using Monero today, the only safe and usable wallet is the reference client. 
+There is no other cryptocurrency currently available that deliver the same level of privacy and usability as Monero. 
 
-One problem is that this reference client is not as “user friendly” as people would generally expect. No worries, robust and user friendly wallets, including my company's upcoming iOS app, the X Wallet, are coming soon. But if you’re impatient and want to try Monero now, I’ve written a short guide here that will get you started in about 5 minutes. 
+At the moment there's only one trustworthy and reliable wallet for Monero, and that's the official wallet that the Monero project developers maintain. The problem is that this wallet isn't as user friendly as many people would have hoped. So I’ve written a short guide here that will hopefully get you started with Monero in about 5 minutes. 
 
 This tutorial is for OS X, but the general process is the same for other operating systems.
 
