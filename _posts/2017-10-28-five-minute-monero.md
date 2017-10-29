@@ -7,12 +7,12 @@ title: five minute monero
 
 
 ### five minute Monero
-
 Monero is a cryptocurrency that tries to deliver the benefits of what we imagine a good digital cash would offer. Some of its properties include: 
-	•	Total privacy
-	•	The ability to prove that you made a payment
-	•	About 2 minutes to settlement
-	•	Low and predictable transaction fees, and a perpetual 1% inflation rate 
+
+* Total privacy
+* The ability to prove that you made a payment
+* About 2 minutes to settlement
+* Low and predictable transaction fees, and a perpetual 1% inflation rate 
 
 There are no other cryptocurrencies currently available that deliver the same level of privacy and usability as Monero. But this is still a young technology, and at the moment, user-friendly wallets and other applications running on Monero are practically non-existent. So if you want to start using Monero today, the only safe and usable wallet is the reference client. 
 
