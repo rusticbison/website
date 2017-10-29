@@ -1,12 +1,10 @@
 ---
 layout: post
-title: five minute monero
+title: Five minute monero
 ---
 
 
 
-
-### five minute Monero
 
 Monero is a cryptocurrency that tries to deliver the benefits of what we imagine a good digital cash would offer. Some of its properties include: 
 
