@@ -21,7 +21,7 @@ This tutorial is for OS X, but the general process is the same for other operati
 
 * First, go to the Monero project’s download page: https://getmonero.org/downloads/
 * Now scroll down until you see: Mac OS X, 64-bit
-* Click Mac OS X, 64-bit (Command-Line Tools Only) and your download will start. ![download-monero]({{ site.baseurl }}/assets/img/monero-tutorial/download-monero.png){:class="img-responsive"}
+* Click Mac OS X, 64-bit (Command-Line Tools Only) and your download will start. ![download-monero]({{ site.baseurl }}/assets/img/monero-tutorial/download-monero.png){:class="img-responsive"}{:width="400px"}
 * Go to your Downloads folder, and you’ll see the binary file you just downloaded in there. Double cick it, and it should unzip. You should see something like this: ![monero-extracted]({{ site.baseurl }}/assets/img/monero-tutorial/monero-extracted.png){:class="img-responsive"}
 * Drag (which means copy) that folder to your home folder: ![monero-at-home]({{ site.baseurl }}/assets/img/monero-tutorial/monero-at-home.png){:class="img-responsive"}
 * Now open your terminal. You can access it quickly in two steps: 
