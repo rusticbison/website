@@ -22,12 +22,12 @@ This tutorial is for OS X, but the general process is the same for other operati
 * First, go to the Monero project’s download page: https://getmonero.org/downloads/
 * Now scroll down until you see: Mac OS X, 64-bit
 * Click Mac OS X, 64-bit (Command-Line Tools Only) and your download will start.<br> ![download-monero]({{ site.baseurl }}/assets/img/monero-tutorial/download-monero.png){:class="img-responsive"}{:width="400px"}
-* Go to your Downloads folder, and you’ll see the binary file you just downloaded in there. Double cick it, and it should unzip. You should see something like this: ![monero-extracted]({{ site.baseurl }}/assets/img/monero-tutorial/monero-extracted.png){:class="img-responsive"}{:width="400px"}
-* Drag (which means copy) that folder to your home folder: ![monero-at-home]({{ site.baseurl }}/assets/img/monero-tutorial/monero-at-home.png){:class="img-responsive"}{:width="400px"}
+* Go to your Downloads folder, and you’ll see the binary file you just downloaded in there. Double cick it, and it should unzip. You should see something like this:<br> ![monero-extracted]({{ site.baseurl }}/assets/img/monero-tutorial/monero-extracted.png){:class="img-responsive"}{:width="400px"}
+* Drag (which means copy) that folder to your home folder:<br> ![monero-at-home]({{ site.baseurl }}/assets/img/monero-tutorial/monero-at-home.png){:class="img-responsive"}{:width="400px"}
 * Now open your terminal. You can access it quickly in two steps: 
 * CMD + SHIFT to open Spotlight
   - Type “terminal” and then press return
-* Your terminal window should open to your home directory. Now type “ls” and press return. If you put your Monero folder in the home directory, where I did, you should see it appear. ![terminal-ls]({{ site.baseurl }}/assets/img/monero-tutorial/terminal-ls.png){:class="img-responsive"}{:width="400px"}
+* Your terminal window should open to your home directory. Now type “ls” and press return. If you put your Monero folder in the home directory, where I did, you should see it appear.<br> ![terminal-ls]({{ site.baseurl }}/assets/img/monero-tutorial/terminal-ls.png){:class="img-responsive"}{:width="400px"}
 * You need to change your working directory now. Type or paste this command:  “cd monero-v0.11.1.0/“
 * Now you can start the Monero wallet software. Paste this command into your terminal window: ./monero-wallet-cli --daemon-address 138.68.85.232:18089 
 
