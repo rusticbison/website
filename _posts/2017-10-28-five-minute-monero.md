@@ -13,9 +13,9 @@ Monero is a cryptocurrency delivers the benefits of what we imagine a good digit
 * About 2 minutes to settlement
 * Low and predictable transaction fees, and a perpetual 1% inflation rate 
 
-There is no other cryptocurrency currently available that deliver the same level of privacy and usability as Monero. 
+There is no other cryptocurrency currently available that delivers the same level of privacy and usability as Monero. 
 
-At the moment there's only one trustworthy and reliable wallet for Monero, and that's the official wallet that the Monero project developers maintain. The problem is that this wallet isn't as user friendly as many people would have hoped. So I’ve written a short guide here that will hopefully get you started with Monero in about 5 minutes. 
+At the moment there's only one trustworthy and reliable wallet software for Monero, and that's the official wallet that the Monero project developers maintain. There's a little learning curve, so I’ve written a short guide that will hopefully get you started with Monero in about 5 minutes. 
 
 This tutorial is for OS X, but the general process is the same for other operating systems.
 
@@ -27,12 +27,12 @@ This tutorial is for OS X, but the general process is the same for other operati
 * Now open your terminal. You can access it quickly in two steps: 
   - Press CMD + SHIFT to open Spotlight
   - Type “terminal” and then press return
-* Your terminal window should open to your home directory. Now type “ls” and press return. If you put your Monero folder in the home directory, where I did, you should see it appear.<br> ![terminal-ls]({{ site.baseurl }}/assets/img/monero-tutorial/terminal-ls.png){:class="img-responsive"}{:width="600px"}
-* You need to change your working directory now. Type or paste this command:  <br>
+* Your terminal window should open to your home directory. This is your "working directory". Now type “ls” and press return. This command shows you the files and folders that are in your working directly. If you put your Monero folder in the home directory, where I did, you should see it appear.<br> ![terminal-ls]({{ site.baseurl }}/assets/img/monero-tutorial/terminal-ls.png){:class="img-responsive"}{:width="600px"}
+* You need to change your working directory now. You change your working directory by typing or pasting this command in your terminal window:  <br>
 ```bash
 cd monero-v0.11.1.0/
 ```
-* Now you can start the Monero wallet software. Paste this command into your terminal window: <br>
+* Now you can start the Monero wallet software. Type or paste this command into your terminal window: <br>
 ```bash
 ./monero-wallet-cli --daemon-address 138.68.85.232:18089 
 ```
