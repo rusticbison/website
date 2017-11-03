@@ -20,7 +20,7 @@ Some people don’t like Bitcoin’s software rules, or the way it is developed.
 
 Notice that the name of the project is quite different: it’s called “Litecoin”. This project is copied from the Bitcoin project, but there are a number of modifications that have been made to the software. It’s designed to be a different cryptocurrency, which behaves in different ways from Bitcoin. You can easily and safely trade Litecoin (LTC) for Bitcoin (XBT or BTC) on cryptocurrency exchanges.
 
-For some reason, some people have decided to launch an attack on Bitcoin. Their plan is to trick you into believing that you’re using the genuine Bitcoin cryptocurrency, when you’re actually using a completely different cryptocurrency. Here’s the counterfeit Bitcoin project, where the attack will come from:
+For some reason, some people have decided to launch an attack on Bitcoin. Their plan is to trick you into believing that you’re using the genuine Bitcoin cryptocurrency, when you’re actually using a completely different cryptocurrency. Here’s the counterfeit Bitcoin project, where the next attack will come from:
 
 [https://github.com/btc1/bitcoin](https://github.com/btc1/bitcoin)
 
