@@ -6,7 +6,7 @@ title: hardfork attack
 
 
 
-Some people seem to be confused as to what Bitcoin is, or what it means. To be clear, there’s only one Bitcoin software client, and that’s located in this repository on Github:
+Some people are confused about Bitcoin. To be clear, there’s only one Bitcoin software client, and that’s located in this repository on Github:
 
 [https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 
