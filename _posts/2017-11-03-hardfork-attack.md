@@ -6,9 +6,11 @@ title: hardfork attack
 
 
 
-Some people are confused about Bitcoin. To be clear, there’s only one Bitcoin software client, and that’s located in this repository on Github:
+There seems to be some confusion about Bitcoin, so this post aims to clear up that confusion. To be clear, there’s only one Bitcoin, it is located in this repository on Github:
 
 [https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+
+The code in that repository is what goes into the official Bitcoin software client. You can download it here: [https://bitcoin.org/en/download](https://bitcoin.org/en/download)
 
 This exact software client defines the rules of the Bitcoin network. This is Bitcoin. *Nothing else is Bitcoin*.  
 
