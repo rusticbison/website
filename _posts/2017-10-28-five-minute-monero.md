@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five minute monero
+title: five minute monero
 ---
 
 
