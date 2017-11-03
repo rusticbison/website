@@ -24,7 +24,9 @@ For some reason, some people have decided to launch an attack on Bitcoin. Their 
 
 How would the attackers succeed? Their success depends on tricking people who don’t have any real control over their Bitcoin. If you use custodial services, such as Coinbase, Xapo, Bitgo, or Bitpay, you do not control your Bitcoin and you are at serious risk of financial loss. These companies use your money to buy Bitcoin for themselves, and then hope that you never ask for them to deliver it to you. These companies can play a dirty trick on you: they may keep the real Bitcoin that they owe you for themselves, while actually giving you the other, cheaper cryptocurrency. To protect yourself and to keep your funds safe, use one of these technologies instead:
 
+
 - The [official Bitcoin software](https://github.com/bitcoin/bitcoin)
 - A hardware wallet such as [Trezor](https://trezor.io/) or [Ledger](https://www.ledgerwallet.com/)
+
 
 Your Bitcoin must be carefully secured, and you should never trust anyone else with it. If you currently have an account with a company that took your money and promises to deliver you Bitcoin, you should immediately take possession of your Bitcoin before November 16th, 2017.
