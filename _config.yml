@@ -23,7 +23,5 @@ kramdown:
 highlighter: rouge
 
 # Plugins
-plugins:
+gems:
   - jekyll-feed
-
-jekyll-feed
