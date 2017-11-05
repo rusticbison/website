@@ -25,3 +25,5 @@ highlighter: rouge
 # Plugins
 plugins:
   - jekyll-feed
+
+jekyll-feed
