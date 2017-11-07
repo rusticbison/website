@@ -29,3 +29,5 @@ Only send the exchange small amounts. Make your trade, and then immediately with
 
 ## Get the most out of your trade.
 The people behind the network attack have a lot of money, and they'll try to use it to make the attack successful. We saw this with the BCASH pump, shortly after that coin was released. It might be a good idea to keep a little B2X for a day or two, so you can sell it at a very high price...but I wouldn't wait too long to sell it. The price should become asymptotic, moving towards zero rather quickly.
+
+If you follow this advice then you should be able to increase your Bitcoin holdings by somewhere around 5% to 25%, with almost no risk, for just a few hours of your time. 
