@@ -1,6 +1,6 @@
 # My variables
 name: Justin Smith
-description: Cryptofinance technologist, CEO of XMR Systems LLC.
+description: Cryptofinance technologist, CEO of XMR Systems LLC and CTO of Elea Labs AG.
 google_verification: null
 
 # File management
@@ -21,7 +21,3 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-
-# Plugins
-gems:
-  - jekyll-feed
